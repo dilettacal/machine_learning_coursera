@@ -1,1 +1,3 @@
-# machine_learning_coursera
+# Machine Learning (Coursera)
+
+https://www.coursera.org/learn/machine-learning/
